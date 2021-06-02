@@ -7,7 +7,7 @@
 
 ## Welcome to my profile. 
 
--@- Dream is yours, Practice is mine. -@-
+-@- Dream is yours, Implement is mine. -@-
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
 6+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
